@@ -1,0 +1,19 @@
+{
+  "name": "@davidfernandez31/sigfox-dms",
+  "version": "0.0.2",
+  "description": "javascript sdk for sigfox Device Management Service (dms)",
+  "main": "dms.js",
+  "scripts": {},
+  "keywords": [
+    "IoT",
+    "Device",
+    "Management",
+    "Sigfox",
+    "LPWAN"
+  ],
+  "author": "David Fernandez",
+  "license": "MIT",
+  "dependencies": {
+    "@davidfernandez31/sigfox-dms": "^0.0.2"
+  }
+}
